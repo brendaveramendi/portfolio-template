@@ -1,6 +1,5 @@
 # Trayecto de formacion FullStack
 ## Practica de Comandos git 
 
-Comandos Git
-
-
+***Comandos Git***
+![git] (/assets/git.png)
