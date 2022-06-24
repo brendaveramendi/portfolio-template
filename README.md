@@ -1,5 +1,6 @@
-#Portfolio Brenda Veramendi 
+# Trayecto de formacion FullStack
+## Practica de Comandos git 
 
-Practica de comandos git
- 
+Comandos Git
+
 
